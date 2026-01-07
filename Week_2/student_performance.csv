@@ -1,0 +1,21 @@
+Student_ID,Name,Subject,Marks,Attendance
+101,Aarav,Mathematics,78,92
+102,Diya,Mathematics,65,85
+103,Rahul,Mathematics,34,60
+104,Sneha,Mathematics,88,95
+105,Kiran,Mathematics,42,70
+101,Aarav,Science,72,92
+102,Diya,Science,58,85
+103,Rahul,Science,40,60
+104,Sneha,Science,90,95
+105,Kiran,Science,36,70
+101,Aarav,English,81,92
+102,Diya,English,74,85
+103,Rahul,English,45,60
+104,Sneha,English,92,95
+105,Kiran,English,39,70
+101,Aarav,Social Studies,69,92
+102,Diya,Social Studies,62,85
+103,Rahul,Social Studies,30,60
+104,Sneha,Social Studies,85,95
+105,Kiran,Social Studies,41,70

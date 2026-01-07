@@ -1,0 +1,13 @@
+Date,City,Temperature_C,Rainfall_mm,Humidity,WindSpeed_kmph
+2024-01-05,Hyderabad,26,0,45,8
+2024-02-10,Hyderabad,28,2,48,9
+2024-03-15,Hyderabad,32,5,42,10
+2024-04-20,Hyderabad,36,10,38,12
+2024-05-25,Hyderabad,39,20,35,14
+2024-06-10,Hyderabad,34,120,70,18
+2024-07-15,Hyderabad,30,180,75,20
+2024-08-18,Hyderabad,29,150,78,19
+2024-09-22,Hyderabad,31,90,65,15
+2024-10-10,Hyderabad,29,40,55,12
+2024-11-12,Hyderabad,27,5,50,10
+2024-12-20,Hyderabad,25,0,48,9
